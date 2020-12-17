@@ -1,6 +1,6 @@
 # Piano Booster Music
 
-> Welcome the the new repository for Piano Booster Music.
+> Welcome to the new repository for Piano Booster Music.
 
 These pieces of music have been created to work with **PianoBooster** and
 have the creative commons copyright.
