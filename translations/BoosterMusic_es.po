@@ -20,7 +20,7 @@ msgstr ""
 #: BeginnerCourse/01-StartWithMiddleC.md:2
 #, no-wrap
 msgid "**Start With Middle C** is an extremely easy piece. Just find **middle C** on the piano and then play that note four times using your **thumb** on your **right hand**. The first half of the piece has **middle C** in the **Treble Clef**, then for the second half of the piece the same **middle C** note is shown the **Bass Clef**. Play this using your **thumb** on your **left hand**.\n"
-msgstr "**Comienza con Do Medio** es una pieza extremadamente fácil. Solo encuentra la **Do Medio**en el piano y luego toca esa nota cuatro veces con el **pulgar **de tu** mano derecha**. La primera mitad de la pieza tiene **Do Medio **en la **Clave de Sol**, luego, para la segunda mitad de la pieza, la misma nota **Do medio**se muestra la **Clave de Fa**. Juega esto usando tu **pulgar **de tu **mano izquierda**. \n"
+msgstr "**Comienza con Do Medio** es una pieza extremadamente fácil. Solo encuentra el **Do Medio**en el piano y luego toca esa nota cuatro veces con el **pulgar **de tu** mano derecha**. La primera mitad de la pieza tiene **Do Medio **en la **Clave de Sol**, luego, para la segunda mitad de la pieza, la misma nota **Do medio**se muestra la **Clave de Fa**. Juega esto usando tu **pulgar **de tu **mano izquierda**. \n"
 
 #. type: Plain text
 #: BeginnerCourse/01-StartWithMiddleC.md:3
